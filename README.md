@@ -8,7 +8,7 @@ Hi, my name is Joicy.
 
 # Projects
 
-## [Optimization Of Machine Downtime]
+## Optimization Of Machine Downtime
 <p align="center">
 <a href="[Optimizing Machine Downtime]">
 
@@ -20,7 +20,7 @@ Utilizing advanced analytical techniques in Python, trends and patterns were unc
 </p>
 
 
-## [Climatic Trends in Sirumalai]
+## Climatic Trends in Sirumalai
 <p align="center">
 <a href="[Climatic Trends In Sirumail]">
 
