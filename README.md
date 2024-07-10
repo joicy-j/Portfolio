@@ -8,7 +8,7 @@ Hi, my name is Joicy.
 
 # Projects
 
-## [Optimization Of Machine Downtime](https://github.com/joicy-j/joicy-s_portfolio/tree/92dfe3c83374a7e3b7168440377442fa73e80c98/Climatic%20Trends%20In%20Sirumail)
+## [Optimization Of Machine Downtime]
 <p align="center">
 <a href="[Optimizing Machine Downtime]">
 
@@ -20,6 +20,18 @@ Utilizing advanced analytical techniques in Python, trends and patterns were unc
 </p>
 
 
+## [Climatic Trends in Sirumalai]
+<p align="center">
+<a href="[Climatic Trends In Sirumail]">
+
+<p>
+<a href="https://drive.google.com/file/d/1VCZMU4xLUW4VDcXWM5SgYVpNojV6ggLq/view?usp=sharing">
+This project analyzed climatic trends over a period of fice years to provide insights and analyze changes.</a></p>
+<p>
+Sirumalai is a hill ecosystem situated in TamilNadu, India. This study thoroughly examines climatic nuances, meticulously analysing meteorological data spanning five years from 2018-2022.</p>
+<p>
+Climatic Data was collected from online data repositories, pre-processed and cleaned. Data was analyzed using Correlation and visualization(using times series histogram and plots) to understand yearly trends in climate data using Microsoft Excel.
+</p>
 
 
 
