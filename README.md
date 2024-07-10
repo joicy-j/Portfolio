@@ -10,13 +10,12 @@ Hi, my name is Joicy.
 
 ## Optimization Of Machine Downtime
 <p align="center">
-<a href="[Optimizing Machine Downtime]"><p>
+<a href="[Optimizing Machine Downtime]">
+<p>
 <a href="https://drive.google.com/file/d/1raLF3iwDgwJcbO1KUrxwr9dvt8a9AXqN/view?usp=drive_link">
-In this project, I implemented a machine learning model for optimizing machine downtime.</a></p>
-<p>The project was conducted as part of my final year postgraduate internship. In this project a machine learning model was created using python which achieved an accuracy of 98%. The RandomForestClassifier algorithm was selected for its ability to handle complex datasets with non-linear relationships and its robustness to overfitting.
-Utilizing advanced analytical techniques in Python, trends and patterns were uncovered, enriching strategic decision-making processes.</p>
-
-##2
+In this project, I implemented a machine learning model for optimizing machine downtime. </p> </a>
+<p> The project was conducted as part of my final year postgraduate internship. In this project a machine learning model was created using python which achieved an accuracy of 98%. The RandomForestClassifier algorithm was selected for its ability to handle complex datasets with non-linear relationships and its robustness to overfitting.
+Utilizing advanced analytical techniques in Python, trends and patterns were uncovered, enriching strategic decision-making processes. </p>
 
 ## Climatic Trends in Sirumalai
 <p align="center">
