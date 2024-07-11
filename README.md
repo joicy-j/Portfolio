@@ -32,6 +32,6 @@ Climatic Data was collected from online data repositories, pre-processed and cle
 ## Visualization on Employee Attrition Using Excel and PowerBI
 
 <p align="center">
-<img src="https://github.com/joicy-j/joicy-s_portfolio/blob/2304eb53cdf586b12e54e460abce213210230849/images/HR_Excel.png"  height= 600 alt="Visualization using Excel">
+<img src="images/HR_Excel.png"  height= 600 alt="Visualization using Excel">
 Visualization using Excel.</p>
 
