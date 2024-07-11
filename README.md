@@ -1,4 +1,4 @@
-# Portfolio
+
 <p align="left">
 <img src="images/Portrait.jpg" height=300></p>
   
