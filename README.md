@@ -33,8 +33,8 @@ This project analyzed climatic trends over a period of five years to provide ins
 
 ## Visualization on Employee Attrition Using Excel and PowerBI
 
-<p align="center"> <img src="images/HR_Excel.png"  height=300  width=500> Visualization using Excel </p>
-<p align="center"> <img src="images/HR_PowerBI.png"  height=300  width=500> Visualization using PowerBI </p>
+<p align="center"> <img src="images/HR_Excel.png"  height=300  width=500> <br> Visualization using Excel </p>
+<p align="center"> <img src="images/HR_PowerBI.png"  height=300  width=500> <br> Visualization using PowerBI </p>
 <p> Both visualizations are dynamic and help us to understand the rate of attrition in a company and how it affects different departments of the company. The visualization in Excel uses the help of PivotTables to add connections between graphs and filters, but for PowerBI those features were readily available. </p>
 <p> </p>
 <p> Files to the visualization are available  <a href="https://github.com/joicy-j/joicy-s_portfolio/tree/38c82fdcda8921084404db7c05165f9d6ba063d7/Attrition"> here. </a> </p>
