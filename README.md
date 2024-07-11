@@ -28,7 +28,7 @@ This project analyzed climatic trends over a period of five years to provide ins
 
 # Visualizations
 
-<p>These are some of the visualizations that I have done using Excel, Tableau and PowerBI. I believe that visuals help data to tell stories which it could never speak before. So visualization is an importantfar of analytics to communicate finidings to other stakeholders..</p>
+<p>These are some of the visualizations that I have done using Excel, Tableau and PowerBI. I believe that visuals help data to tell stories which it could never speak before. So visualization is an important part of analytics to communicate finidings to other stakeholders..</p>
 <p></p>
 
 ## Visualization on Employee Attrition Using Excel and PowerBI
