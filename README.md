@@ -12,7 +12,7 @@ Hi, my name is Joicy.
 <a href="https://drive.google.com/file/d/1raLF3iwDgwJcbO1KUrxwr9dvt8a9AXqN/view?usp=drive_link">
 In this project, I implemented a machine learning model for optimizing machine downtime. </a> </p>
 <p> The project was conducted as part of my final year postgraduate internship. In this project a machine learning model was created using python which achieved an accuracy of 98%. The RandomForestClassifier algorithm was selected for its ability to handle complex datasets with non-linear relationships and its robustness to overfitting. Utilizing advanced analytical techniques in Python, trends and patterns were uncovered, enriching strategic decision-making processes. </p>
-<p> Files to the project are available  <a href="Optimizing Machine Downtime"> here. </a> </p>
+<p> Files to the project are available  <a href="https://github.com/joicy-j/joicy-s_portfolio/tree/31e943439e0c8402396ebe2e6b2d213c954a3720/Optimizing%20Machine%20Downtime"> here. </a> </p>
 
 <p></p>
 ## Climatic Trends in Sirumalai
