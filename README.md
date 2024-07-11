@@ -1,6 +1,5 @@
 # Portfolio
-<p align="center">
-  
+<p align="left">
 <img src="images/Portrait.jpg" height=300></p>
   
 Hi, my name is Joicy.
@@ -17,9 +16,6 @@ In this project, I implemented a machine learning model for optimizing machine d
 
 ## Climatic Trends in Sirumalai
 <a href="[Climatic Trends In Sirumail]">
-
-## CL
-
 <p>
 <a href="https://drive.google.com/file/d/1VCZMU4xLUW4VDcXWM5SgYVpNojV6ggLq/view?usp=sharing">
 This project analyzed climatic trends over a period of fice years to provide insights and analyze changes.</a></p>
@@ -29,5 +25,13 @@ Sirumalai is a hill ecosystem situated in TamilNadu, India. This study thoroughl
 Climatic Data was collected from online data repositories, pre-processed and cleaned. Data was analyzed using Correlation and visualization(using times series histogram and plots) to understand yearly trends in climate data using Microsoft Excel.
 </p>
 
+# Visualizations
 
+<p>These are some of the visualizations that I have done using Excel, Tableau and PowerBI. I believe that visuals help data to tell stories which it could never speak before. So visualization is an importantfar of analytics to communicate finidings to other stakeholders..</p>
+
+## Visualization on Employee Attrition Using Excel and PowerBI
+
+<p align="center">
+<a href="images/HR_Excel.png" height=600 alt="Visualization using Excel"></a><br>
+Visualization using Excel.</p>
 
