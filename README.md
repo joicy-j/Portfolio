@@ -42,7 +42,7 @@ This project analyzed climatic trends over a period of five years to provide ins
 
 ## Visualization on Recruitment Data Using Excel and Tableau
 
-<p align="center"> <img src="images/Recruitment_Excel.png"> <br> Interpreation on Excel </p>
+<p align="center"> <img src="images/Recruitment_Excel.png"> <br> Interpretation on Excel </p>
 <p align="center"> <img src="images/Recruitment_Tableau.png"> <br> Visualization using Tableau </p>
 <p> Here, Pivot Tables and Plots were used in Excel to anaylse data section wise, and interpretations were noted down for each tabke.</p>
 <p>In Tableau a dynamic dashboard was create with same dataset to provide an idea on the overall situation.</p>
