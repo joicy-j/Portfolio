@@ -56,5 +56,8 @@ This project analyzed climatic trends over a period of five years to provide ins
 <p align="center"> <img src="images/Stockmarket_PowerBI.png"> <br> Dashboard on PowerBI </p>
 <p> This is a smaller project I did by downloading a dataset on stockmarket of companies and using PowerBI to create a dynamic dashboard that helps in comapring the companies based on different variables. </p>
 
+<iframe src="http://localhost:4848/single/?appid=C%3A%5CUsers%5Cjoicy%5COneDrive%5CDocuments%5CQlik%5CSense%5CApps%5CMilk%20Register.qvf&sheet=muHpRVW&theme=horizon&opt=ctxmenu,currsel" style="border:none;width:100%;height:100%;"></iframe>
+
+
 
 
